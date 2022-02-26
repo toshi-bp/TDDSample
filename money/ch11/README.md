@@ -1,6 +1,7 @@
 # 不要になったら消す
 
 - コンストラクタしか残っていないサブクラスの削除を行う
+- サブクラス削除後において内容が重複しているテストも削除
 
 ## TODO リスト
 
@@ -19,4 +20,4 @@
 - [x] `times`の一般化
 - [x] `Franc`と`Dollar`を比較する
 - [x] 通貨の概念
-- [ ] `testFrancMultiplication`を削除するか否か
+- [x] `testFrancMultiplication`を削除するか否か
