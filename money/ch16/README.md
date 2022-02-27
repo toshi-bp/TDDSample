@@ -8,8 +8,8 @@
 - [x] `Bank.reduce(Money)`
 - [x] `Money`を変換して換算を行う
 - [x] `Reduce(Bank, String)`
-- [ ] `Sum.plus`
-- [ ] `Expression.times`
+- [x] `Sum.plus`
+- [x] `Expression.times`
 
 ## TODO リスト(旧)
 
